@@ -5,7 +5,7 @@ you need to know SQL to extract data from these systems and then work with it.<b
 
 To Improve my skills,I write different SQL queries to fetch require data.<br>
 
-Problem statement<br>
+**Problem statement**<br>
 Company SpaceX faces High attration rate in their company.There are various reasons include for that,Now company owner Elon wants to details of emplyoee who put resigns.<br>
 So that Elon can do damage control and give promotion,salary hike and other perks to deserving employee.<br>
 
