@@ -5,24 +5,30 @@ you need to know SQL to extract data from these systems and then work with it.<b
 
 To Improve my skills,I write different SQL queries to fetch require data.<br>
 
-**Problem statement**<br>
-Company SpaceX faces High attration rate in their company.There are various reasons include for that,Now company owner Elon wants to details of emplyoee who put resigns.<br>
-So that Elon can do damage control and give promotion,salary hike and other perks to deserving employee.<br>
+**Situation:**<br>
+The company has been experiencing a high turnover rate for the past few years, and management is concerned about the costs associated with high attrition.<br>
+They decide to conduct a data analysis project to identify the factors that contribute to high turnover and develop strategies to improve employee retention.<br>
 
+**Task:**<br>
+To extract relevant information and create meaningful insights using SQL.<br>
 
-Your task to write SQL queries for below situtaions.<br>
+**Action:**<br>
+1)Load SQL extension in Jupyter notebook.
+2)Connect MySQL database to Jupyter notebook.
+3)Check the dimensions of the dataset like no.of rows and columns.
+4)Check for null value using SQL.
 
-1)WRITE THE QUERY TO FIND THE DATILS OF EMPLOYEE UNDER ATTRITION HAVING 5+ YEARS OF EXPERIENCE IN B/W AGE GROUP OF 25 TO 35.<br>
-2)FIND THE DETAILS OF EMPLOYESS HAVING MAXIMUM AND MINIMUM SALARY WORKING IN DIFFERENT DEPARTMENT WHO RECEIVED LESS THAN 13% SALARY<br>
-3)CALCULATE THE AVERAGE MONTHLY INCOME OF ALL EMPLOYEE WHO WORKED MORE THAN 5 YEAR WHOSE EDUACTION BACKGROUND IS MEDICAL.<br>
-4)IDENTIFY THE TOTAL NO.OF MALE AND FEMALE EMPLOYEE UNDER ATTRATION WHOSE MARITAL STATUS IN SINGLE AND HAVEN'T RECEIVED PROMOTION IN THE LAST 2 YEARS.<br>
-5)EMPLOYEE WITH MAX PERFORMANCE RATING BUT NO PRMOTION FOR 4+ YEAR AND ABOVE.<br>
-6)EMPLOYEE WORKING OVERTIME BUT GIVEN MIN SALARY HKE AND MORE THAN 7 YEAR WITH COMPANY<br>
-7)EMPLOYEE NOT WORKING OVERTIME BUT GIVEN MAX SALARYHIKE AND MORE THAN 5 YEAR WITH COMPANY<br>
-8)WHICH DEPARTMENT HAVE MAX ATTARATION RATE<br>
-9)CALCULATE THE AVERAGE JOB INVOVLEMENT FOR EACH ROLE<br>
-10)CALCULATE  AVG MONTHLY INCOME FOR EACH JOB ROLE
+**Result:**<br>
+Here are some meaningful insights:<br>
 
-There are many similar questions/situations in SQLfile
+1) Research and development (R&D) Have the Highest attrition rate.<br>
+2)Male employees have a High attrition rate in R&D.<br>
+3) Those whose educational background is Life science have a high attrition rate.<br>
+4) R&D department employees have Good performance ratings but they don't receive promotions in the last 4 years.<br>
+5) Employees with one year of experience have a high attrition rate.<br>
+6) R&D department has the highest number of people who give 1 star in Environment satisfaction.<br>
+7) R&D Department has a high attrition rate in Laboratory technician Roles.<br>
+8) Over-Time is one of the factors for the high attrition rate in R&D.<br>
+There are many similar questions/situations in SQLfile<br>
 
-You can find employee attration rate dataset on [kaggle](https://www.kaggle.com/)
+You can find employee attration rate dataset on [kaggle](https://www.kaggle.com/)<br>
