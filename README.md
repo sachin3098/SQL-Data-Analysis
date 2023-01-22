@@ -1,7 +1,7 @@
 # SQL-Data-Analysis<br>
-1)SQL is the language used to interact with relational databases.<br>
-2)Since most systems today capture the data using one or more databases (like MySQL, Oracle, Redshift, SQL Server, etc.).<br>
-you need to know SQL to extract data from these systems and then work with it.<br>
+👉SQL is the language used to interact with relational databases.<br>
+👉Since most systems today capture the data using one or more databases (like MySQL, Oracle, Redshift, SQL Server, etc.).<br>
+👉you need to know SQL to extract data from these systems and then work with it.<br>
 
 To Improve my skills,I write different SQL queries to fetch require data.<br>
 
@@ -13,10 +13,10 @@ They decide to conduct a data analysis project to identify the factors that cont
 To extract relevant information and create meaningful insights using SQL.<br>
 
 **Action:**<br>
-1)Load SQL extension in Jupyter notebook.
-2)Connect MySQL database to Jupyter notebook.
-3)Check the dimensions of the dataset like no.of rows and columns.
-4)Check for null value using SQL.
+1)Load SQL extension in Jupyter notebook.<br>
+2)Connect MySQL database to Jupyter notebook.<br>
+3)Check the dimensions of the dataset like no.of rows and columns.<br>
+4)Check for null value using SQL.<br>
 
 **Result:**<br>
 Here are some meaningful insights:<br>
